@@ -1,1 +1,0 @@
-# Newdjangoapp1
